@@ -71,7 +71,7 @@
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/diffs-5f78171ebd72.js"></script>
   
 
-  <title>Mail-Automation/README.md at main · JeevToby/Mail-Automation</title>
+  <title>Mail-Automation/mail.py at main · JeevToby/Mail-Automation</title>
 
 
 
@@ -81,7 +81,7 @@
   <meta name="current-catalog-service-hash" content="581425c0eaaa5e5e53c5b736f58a14dbe5d38b0be425901738ad0670bd1d5a33">
 
 
-  <meta name="request-id" content="7ECA:1CB2:44E6D8:4AB085:642DAAD8" data-turbo-transient="true" /><meta name="html-safe-nonce" content="046df2976b09653d52e83db0cdd5ac185617aee6bd62aa7ce6ddfd7c7584e688" data-turbo-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9KZWV2VG9ieS9NYWlsLUF1dG9tYXRpb24iLCJyZXF1ZXN0X2lkIjoiN0VDQToxQ0IyOjQ0RTZEODo0QUIwODU6NjQyREFBRDgiLCJ2aXNpdG9yX2lkIjoiNjY2OTczMjA1MDgwNzc2MDgxMiIsInJlZ2lvbl9lZGdlIjoiY2VudHJhbGluZGlhIiwicmVnaW9uX3JlbmRlciI6ImlhZCJ9" data-turbo-transient="true" /><meta name="visitor-hmac" content="3fc3907b82c0475fc890efb8f1492a2a9fa0e5515bda0ffb81abde97cf5a3d7e" data-turbo-transient="true" />
+  <meta name="request-id" content="7ECA:1CB2:44F4F3:4AC073:642DAB08" data-turbo-transient="true" /><meta name="html-safe-nonce" content="046df2976b09653d52e83db0cdd5ac185617aee6bd62aa7ce6ddfd7c7584e688" data-turbo-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9KZWV2VG9ieS9NYWlsLUF1dG9tYXRpb24iLCJyZXF1ZXN0X2lkIjoiN0VDQToxQ0IyOjQ0RjRGMzo0QUMwNzM6NjQyREFCMDgiLCJ2aXNpdG9yX2lkIjoiNjY2OTczMjA1MDgwNzc2MDgxMiIsInJlZ2lvbl9lZGdlIjoiY2VudHJhbGluZGlhIiwicmVnaW9uX3JlbmRlciI6ImlhZCJ9" data-turbo-transient="true" /><meta name="visitor-hmac" content="1b45da223208f246f025b555a4f1fb15baf0833b1df7b620e7143951ff4c4221" data-turbo-transient="true" />
 
 
     <meta name="hovercard-subject-tag" content="repository:622953170" data-turbo-transient>
@@ -120,11 +120,11 @@
     <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
     <meta property="fb:app_id" content="1401488693436528">
     <meta name="apple-itunes-app" content="app-id=1477376905" />
-      <meta name="twitter:image:src" content="https://opengraph.githubassets.com/3e96c903740cebc9b0c643d1f669414f817802cb8c9ff0ba351a3c332ebcf314/JeevToby/Mail-Automation" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="Mail-Automation/README.md at main · JeevToby/Mail-Automation" /><meta name="twitter:description" content="it generates automated mail. Contribute to JeevToby/Mail-Automation development by creating an account on GitHub." />
-      <meta property="og:image" content="https://opengraph.githubassets.com/3e96c903740cebc9b0c643d1f669414f817802cb8c9ff0ba351a3c332ebcf314/JeevToby/Mail-Automation" /><meta property="og:image:alt" content="it generates automated mail. Contribute to JeevToby/Mail-Automation development by creating an account on GitHub." /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="Mail-Automation/README.md at main · JeevToby/Mail-Automation" /><meta property="og:url" content="https://github.com/JeevToby/Mail-Automation" /><meta property="og:description" content="it generates automated mail. Contribute to JeevToby/Mail-Automation development by creating an account on GitHub." />
+      <meta name="twitter:image:src" content="https://opengraph.githubassets.com/3e96c903740cebc9b0c643d1f669414f817802cb8c9ff0ba351a3c332ebcf314/JeevToby/Mail-Automation" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="Mail-Automation/mail.py at main · JeevToby/Mail-Automation" /><meta name="twitter:description" content="it generates automated mail. Contribute to JeevToby/Mail-Automation development by creating an account on GitHub." />
+      <meta property="og:image" content="https://opengraph.githubassets.com/3e96c903740cebc9b0c643d1f669414f817802cb8c9ff0ba351a3c332ebcf314/JeevToby/Mail-Automation" /><meta property="og:image:alt" content="it generates automated mail. Contribute to JeevToby/Mail-Automation development by creating an account on GitHub." /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="Mail-Automation/mail.py at main · JeevToby/Mail-Automation" /><meta property="og:url" content="https://github.com/JeevToby/Mail-Automation" /><meta property="og:description" content="it generates automated mail. Contribute to JeevToby/Mail-Automation development by creating an account on GitHub." />
       
     <link rel="assets" href="https://github.githubassets.com/">
-      <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/118037264/ws?session=eyJ2IjoiVjMiLCJ1IjoxMTgwMzcyNjQsInMiOjEwOTEzMTE3NzAsImMiOjM5MzQyMDY3NzUsInQiOjE2ODA3MTQ0ODh9--f87517f0fe04e230f47bc87d0298c360c4b07b3032efa05daddf646a365e1bf8" data-refresh-url="/_alive" data-session-id="6b64bae817e2a31dc9c6c25876ddf06ebca4fb258c3efa84271568f6f13bc459">
+      <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/118037264/ws?session=eyJ2IjoiVjMiLCJ1IjoxMTgwMzcyNjQsInMiOjEwOTEzMTE3NzAsImMiOjI1MzM3MjQ5MjAsInQiOjE2ODA3MTQ1MjZ9--71f91565df21fbb9b8031e4825e0e3dd50a793bda29f68460bde6568a6b51c99" data-refresh-url="/_alive" data-session-id="6b64bae817e2a31dc9c6c25876ddf06ebca4fb258c3efa84271568f6f13bc459">
       <link rel="shared-web-socket-src" href="/assets-cdn/worker/socket-worker-71e98f781d79.js">
 
 
@@ -154,7 +154,7 @@
 
 
 
-    <link rel="canonical" href="https://github.com/JeevToby/Mail-Automation/blob/main/README.md" data-turbo-transient>
+    <link rel="canonical" href="https://github.com/JeevToby/Mail-Automation/blob/main/mail.py" data-turbo-transient>
   <meta name="turbo-body-classes" content="logged-in env-production page-responsive page-blob">
 
 
@@ -247,7 +247,7 @@
           spellcheck="false"
           autocomplete="off"
         >
-        <input type="hidden" value="jqbDGWt9CZyRx8QDao4v8jRCu_Utsbak41nhExGmvwO2p2pnDUdOro_FPUZDAHrWQwjUWZoSn3jq2dCMMCoBQQ" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
+        <input type="hidden" value="xRBLQIB4rl29QXfpK9pyzJSlXZubqwu_fR331tjneCz9EeI-5kLpb6NDjqwCVCfo4-8yNywIImN0ncZJ-WvGbg" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
         <input type="hidden" class="js-site-search-type-field" name="type" >
             <svg xmlns="http://www.w3.org/2000/svg" width="22" height="20" aria-hidden="true" class="mr-1 header-search-key-slash"><path fill="none" stroke="#979A9C" opacity=".4" d="M3.5.5h12c1.7 0 3 1.3 3 3v13c0 1.7-1.3 3-3 3h-12c-1.7 0-3-1.3-3-3v-13c0-1.7 1.3-3 3-3z"></path><path fill="#979A9C" d="M11.8 6L8 15.1h-.9L10.8 6h1z"></path></svg>
 
@@ -446,7 +446,7 @@
 
   <a class="js-selected-navigation-item Header-link mt-md-n3 mb-md-n3 py-2 py-md-3 mr-0 mr-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:explore" data-turbo="false" data-selected-links="/explore /trending /trending/developers /integrations /integrations/feature/code /integrations/feature/collaborate /integrations/feature/ship showcases showcases_search showcases_landing /explore" href="/explore">Explore</a>
 
-      <a class="js-selected-navigation-item Header-link d-block d-md-none py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:Sponsors" data-hydro-click="{&quot;event_type&quot;:&quot;sponsors.button_click&quot;,&quot;payload&quot;:{&quot;button&quot;:&quot;HEADER_SPONSORS_DASHBOARD&quot;,&quot;sponsorable_login&quot;:&quot;Devimrithula&quot;,&quot;originating_url&quot;:&quot;https://github.com/JeevToby/Mail-Automation/blob/main/README.md&quot;,&quot;user_id&quot;:118037264}}" data-hydro-click-hmac="ad57c9ecb77b17100c051e3e3a6a820d7506a7776cad87e13cc93a6c70ba9d43" data-turbo="false" data-selected-links=" /sponsors/accounts" href="/sponsors/accounts">Sponsors</a>
+      <a class="js-selected-navigation-item Header-link d-block d-md-none py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:Sponsors" data-hydro-click="{&quot;event_type&quot;:&quot;sponsors.button_click&quot;,&quot;payload&quot;:{&quot;button&quot;:&quot;HEADER_SPONSORS_DASHBOARD&quot;,&quot;sponsorable_login&quot;:&quot;Devimrithula&quot;,&quot;originating_url&quot;:&quot;https://github.com/JeevToby/Mail-Automation/blob/main/mail.py&quot;,&quot;user_id&quot;:118037264}}" data-hydro-click-hmac="41474fcf511bfb62ce4f20cc1a189bb6bdc475a9c03b39ff1f9bff96b0174981" data-turbo="false" data-selected-links=" /sponsors/accounts" href="/sponsors/accounts">Sponsors</a>
 
     <a class="Header-link d-block d-md-none mr-0 mr-md-3 py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-turbo="false" href="/settings/profile">Settings</a>
 
@@ -454,7 +454,7 @@
       <img class="avatar avatar-user" loading="lazy" decoding="async" src="https://avatars.githubusercontent.com/u/118037264?s=40&amp;v=4" width="20" height="20" alt="@Devimrithula" />
       Devimrithula
 </a>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-turbo="false" action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="9ZhboNSNg4F4sTFKdHeDo7fC9pkwL5qQnsE3NR8TPKhanm9qptBnP0nq8TVe40xhtbnBCrenPQl3JIvdSS650g" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-turbo="false" action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="WjMgNw-l2AzbCxib0oICQvP-Tf9R0YWRefMQmhTdQjv1NRT9ffg8supQ2OT4Fs2A8YV6bNZZIgiQFqxyQuDHQQ" />
       <button
         type="submit"
         class="Header-link mr-0 mr-md-3 py-2 py-md-3 border-top border-md-top-0 border-white-fade d-md-none btn-link d-block width-full text-left"
@@ -489,7 +489,7 @@
     <div class="Header-item mr-0 mr-md-3 flex-order-1 flex-md-order-none">
         
 
-<notification-indicator data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6MTE4MDM3MjY0IiwidCI6MTY4MDcxNDQ4OH0=--db6b2e06cb532f8bb90ef1db4328bd8ae51d74c285ce5ce7f549f1b57de35631" data-indicator-mode="none" data-tooltip-global="You have unread notifications" data-tooltip-unavailable="Notifications are unavailable at the moment." data-tooltip-none="You have no unread notifications" data-fetch-indicator-src="/notifications/indicator" data-fetch-indicator-enabled="true" data-view-component="true" class="js-socket-channel">
+<notification-indicator data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6MTE4MDM3MjY0IiwidCI6MTY4MDcxNDUyNn0=--fa584f8477ab43f2bca68c979663be53da8aff32ffed91b4bd38d06797a20ba5" data-indicator-mode="none" data-tooltip-global="You have unread notifications" data-tooltip-unavailable="Notifications are unavailable at the moment." data-tooltip-none="You have no unread notifications" data-fetch-indicator-src="/notifications/indicator" data-fetch-indicator-enabled="true" data-view-component="true" class="js-socket-channel">
   <a id="AppHeader-notifications-button" href="/notifications"
     class="Header-link notification-indicator position-relative tooltipped tooltipped-sw"
 
@@ -632,7 +632,7 @@
 
 
     
-    <notification-shelf-watcher data-base-url="https://github.com/notifications/beta/shelf" data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6MTE4MDM3MjY0IiwidCI6MTY4MDcxNDQ4OH0=--db6b2e06cb532f8bb90ef1db4328bd8ae51d74c285ce5ce7f549f1b57de35631" data-view-component="true" class="js-socket-channel"></notification-shelf-watcher>
+    <notification-shelf-watcher data-base-url="https://github.com/notifications/beta/shelf" data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6MTE4MDM3MjY0IiwidCI6MTY4MDcxNDUyNn0=--fa584f8477ab43f2bca68c979663be53da8aff32ffed91b4bd38d06797a20ba5" data-view-component="true" class="js-socket-channel"></notification-shelf-watcher>
   <div hidden data-initial data-target="notification-shelf-watcher.placeholder"></div>
 
 
@@ -649,7 +649,7 @@
   <details-dialog class="command-palette-details-dialog d-flex flex-column flex-justify-center height-fit" aria-label="command palette">
     <command-palette
       class="command-palette color-bg-default rounded-3 border color-shadow-small"
-      return-to=/JeevToby/Mail-Automation/blob/main/README.md
+      return-to=/JeevToby/Mail-Automation/blob/main/mail.py
       user-id="118037264"
       activation-hotkey="Mod+k,Mod+Alt+k"
       command-mode-hotkey="Mod+Shift+k"
@@ -806,7 +806,7 @@
     <button aria-keyshortcuts="Control+Backspace" data-action="click:command-palette-input#onClear keypress:command-palette-input#onClear" data-target="command-palette-input.clearButton" id="command-palette-clear-button" hidden="hidden" type="button" data-view-component="true" class="btn-octicon command-palette-input-clear-button">      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x-circle-fill">
     <path d="M2.343 13.657A8 8 0 1 1 13.658 2.343 8 8 0 0 1 2.343 13.657ZM6.03 4.97a.751.751 0 0 0-1.042.018.751.751 0 0 0-.018 1.042L6.94 8 4.97 9.97a.749.749 0 0 0 .326 1.275.749.749 0 0 0 .734-.215L8 9.06l1.97 1.97a.749.749 0 0 0 1.275-.326.749.749 0 0 0-.215-.734L9.06 8l1.97-1.97a.749.749 0 0 0-.326-1.275.749.749 0 0 0-.734.215L8 6.94Z"></path>
 </svg>
-</button>    <tool-tip id="tooltip-ee959146-5332-4084-9a1b-10cb0e9e6eee" for="command-palette-clear-button" data-direction="w" data-type="label" data-view-component="true" class="sr-only position-absolute">Clear Command Palette</tool-tip>
+</button>    <tool-tip id="tooltip-252f73d0-dc42-4973-81e9-8f9de60b58fb" for="command-palette-clear-button" data-direction="w" data-type="label" data-view-component="true" class="sr-only position-absolute">Clear Command Palette</tool-tip>
 </div>
       </command-palette-input>
 
@@ -1643,11 +1643,11 @@
   <li>
         <div data-view-component="true" class="d-flex">
         <div data-view-component="true" class="position-relative d-inline-block">
-    <a icon="repo-forked" id="fork-button" href="/JeevToby/Mail-Automation/fork" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FORK_BUTTON&quot;,&quot;repository_id&quot;:622953170,&quot;originating_url&quot;:&quot;https://github.com/JeevToby/Mail-Automation/blob/main/README.md&quot;,&quot;user_id&quot;:118037264}}" data-hydro-click-hmac="4f23c8acc632d8efc9677f2d91b2f5d993ec9e1985b557837adc12c61a6cfbb9" data-ga-click="Repository, show fork modal, action:blob#show; text:Fork" data-view-component="true" class="btn-sm btn BtnGroup-item border-right-0">      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo-forked mr-2">
+    <a icon="repo-forked" id="fork-button" href="/JeevToby/Mail-Automation/fork" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FORK_BUTTON&quot;,&quot;repository_id&quot;:622953170,&quot;originating_url&quot;:&quot;https://github.com/JeevToby/Mail-Automation/blob/main/mail.py&quot;,&quot;user_id&quot;:118037264}}" data-hydro-click-hmac="341af725ff4eae7958eb8a8753c158d960a602112eb0c06d33e723796acea675" data-ga-click="Repository, show fork modal, action:blob#show; text:Fork" data-view-component="true" class="btn-sm btn BtnGroup-item border-right-0">      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo-forked mr-2">
     <path d="M5 5.372v.878c0 .414.336.75.75.75h4.5a.75.75 0 0 0 .75-.75v-.878a2.25 2.25 0 1 1 1.5 0v.878a2.25 2.25 0 0 1-2.25 2.25h-1.5v2.128a2.251 2.251 0 1 1-1.5 0V8.5h-1.5A2.25 2.25 0 0 1 3.5 6.25v-.878a2.25 2.25 0 1 1 1.5 0ZM5 3.25a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Zm6.75.75a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5Zm-3 8.75a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Z"></path>
 </svg>Fork
           <span id="repo-network-counter" data-pjax-replace="true" data-turbo-replace="true" title="0" data-view-component="true" class="Counter">0</span>
-</a>    <tool-tip id="tooltip-68413cd2-4700-4433-ba7a-c13c01c14e72" for="fork-button" data-direction="s" data-type="description" data-view-component="true" class="sr-only position-absolute">Fork your own copy of JeevToby/Mail-Automation</tool-tip>
+</a>    <tool-tip id="tooltip-d2bdac45-5510-4be1-a303-5fc6dc9f1249" for="fork-button" data-direction="s" data-type="description" data-view-component="true" class="sr-only position-absolute">Fork your own copy of JeevToby/Mail-Automation</tool-tip>
 </div>
       <details group_item="true" id="my-forks-menu-622953170" data-view-component="true" class="details-reset details-overlay BtnGroup-parent d-inline-block position-relative">
               <summary aria-label="See your forks of this repository" data-view-component="true" class="btn-sm btn BtnGroup-item px-2 float-none">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-triangle-down">
@@ -1662,13 +1662,13 @@
       
 >
     <div class="SelectMenu-modal">
-        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-362581">
+        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-5e0309">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
     <path d="M3.72 3.72a.75.75 0 0 1 1.06 0L8 6.94l3.22-3.22a.749.749 0 0 1 1.275.326.749.749 0 0 1-.215.734L9.06 8l3.22 3.22a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L8 9.06l-3.22 3.22a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042L6.94 8 3.72 4.78a.75.75 0 0 1 0-1.06Z"></path>
 </svg>
         </button>
       <div
-        id="filter-menu-362581"
+        id="filter-menu-5e0309"
         class="d-flex flex-column flex-1 overflow-hidden"
 >
         <div
@@ -1710,10 +1710,10 @@
 
   <div data-view-component="true" class="js-toggler-container js-social-container starring-container d-flex">
     <div data-view-component="true" class="starred BtnGroup flex-1">
-      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-social-form BtnGroup-parent flex-auto js-deferred-toggler-target" data-turbo="false" action="/JeevToby/Mail-Automation/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="r4loo0an8w3cTnd2Ul4dfkB7GBGomPqJwMBcfGmsta_OM9i15A6Q4iUtWXfm8-r9jAZ3TeiPvog-i2Oyapx66g" autocomplete="off" />
-          <input type="hidden" value="KSV8_nnZITyaPWZ2frOlhDT0miERlUA9lolR8ycGsVVIn8zo23BC02NeSHfKHlIH-In1fVGCBDxowm49JDZ-EA" data-csrf="true" class="js-confirm-csrf-token" />
+      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-social-form BtnGroup-parent flex-auto js-deferred-toggler-target" data-turbo="false" action="/JeevToby/Mail-Automation/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="uPAI4nkBYQkf5LcjmA66Cq3IOtHc5EhO5sAIwglm3_zZSrj026gC5uaHmSIso02JYbVVjZzzDE8YizcMClYQuQ" autocomplete="off" />
+          <input type="hidden" value="D5jamGq-VULu4GFxEtHtSSUtGhZDL4G-iw7zLlvVZeduImqOyBc2rReDT3CmfBrK6VB1SgM4xb91RczgWOWqog" data-csrf="true" class="js-confirm-csrf-token" />
         <input type="hidden" name="context" value="repository">
-          <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:622953170,&quot;originating_url&quot;:&quot;https://github.com/JeevToby/Mail-Automation/blob/main/README.md&quot;,&quot;user_id&quot;:118037264}}" data-hydro-click-hmac="657baaf043b079de6c632796425a3477ecac9fd790486bb32090c78adc8d83bf" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar" aria-label="Unstar this repository (0)" type="submit" data-view-component="true" class="rounded-left-2 btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star-fill starred-button-icon d-inline-block mr-2">
+          <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:622953170,&quot;originating_url&quot;:&quot;https://github.com/JeevToby/Mail-Automation/blob/main/mail.py&quot;,&quot;user_id&quot;:118037264}}" data-hydro-click-hmac="8b391b2f1403e04a1f0c29de4e3661abf43329825c6374f251f37a18e121aa9f" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar" aria-label="Unstar this repository (0)" type="submit" data-view-component="true" class="rounded-left-2 btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star-fill starred-button-icon d-inline-block mr-2">
     <path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Z"></path>
 </svg><span data-view-component="true" class="d-inline">
             Starred
@@ -1731,13 +1731,13 @@
       
 >
     <div class="SelectMenu-modal">
-        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-a60ecd">
+        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-aba85e">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
     <path d="M3.72 3.72a.75.75 0 0 1 1.06 0L8 6.94l3.22-3.22a.749.749 0 0 1 1.275.326.749.749 0 0 1-.215.734L9.06 8l3.22 3.22a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L8 9.06l-3.22 3.22a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042L6.94 8 3.72 4.78a.75.75 0 0 1 0-1.06Z"></path>
 </svg>
         </button>
       <div
-        id="filter-menu-a60ecd"
+        id="filter-menu-aba85e"
         class="d-flex flex-column flex-1 overflow-hidden"
 >
         <div
@@ -1758,9 +1758,9 @@
 </details>
 </div>
     <div data-view-component="true" class="unstarred BtnGroup flex-1">
-      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-social-form BtnGroup-parent flex-auto" data-turbo="false" action="/JeevToby/Mail-Automation/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="7cqz303a2rJAqUou603feSY70N7SVLqXGdcYa15cgmwwly-E-Mv9smgVbiYu2Pe6-faV2L5EOqXIQGsgYWS_Ow" autocomplete="off" />
+      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-social-form BtnGroup-parent flex-auto" data-turbo="false" action="/JeevToby/Mail-Automation/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="nDikZ4IsRFANhhvphkuhC8GIOl20U8YgTmgTiJCqJQRBZTg8Nz1jUCU6P-FD3onIHkV_W9hDRhKf_2DDr5IYUw" autocomplete="off" />
         <input type="hidden" name="context" value="repository">
-          <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:622953170,&quot;originating_url&quot;:&quot;https://github.com/JeevToby/Mail-Automation/blob/main/README.md&quot;,&quot;user_id&quot;:118037264}}" data-hydro-click-hmac="b78b54976a55e778c87f963e43e3ce3c92d5e1afb76cc3c3355824adeceec0ba" data-ga-click="Repository, click star button, action:blob#show; text:Star" aria-label="Star this repository (0)" type="submit" data-view-component="true" class="js-toggler-target rounded-left-2 btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star d-inline-block mr-2">
+          <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:622953170,&quot;originating_url&quot;:&quot;https://github.com/JeevToby/Mail-Automation/blob/main/mail.py&quot;,&quot;user_id&quot;:118037264}}" data-hydro-click-hmac="e28232197f9aca6e9538d39cac4d2a5244ec138921bea7d3d4595fa4fc082106" data-ga-click="Repository, click star button, action:blob#show; text:Star" aria-label="Star this repository (0)" type="submit" data-view-component="true" class="js-toggler-target rounded-left-2 btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star d-inline-block mr-2">
     <path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Zm0 2.445L6.615 5.5a.75.75 0 0 1-.564.41l-3.097.45 2.24 2.184a.75.75 0 0 1 .216.664l-.528 3.084 2.769-1.456a.75.75 0 0 1 .698 0l2.77 1.456-.53-3.084a.75.75 0 0 1 .216-.664l2.24-2.183-3.096-.45a.75.75 0 0 1-.564-.41L8 2.694Z"></path>
 </svg><span data-view-component="true" class="d-inline">
             Star
@@ -1778,13 +1778,13 @@
       
 >
     <div class="SelectMenu-modal">
-        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-2a895c">
+        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-1821fa">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
     <path d="M3.72 3.72a.75.75 0 0 1 1.06 0L8 6.94l3.22-3.22a.749.749 0 0 1 1.275.326.749.749 0 0 1-.215.734L9.06 8l3.22 3.22a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L8 9.06l-3.22 3.22a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042L6.94 8 3.72 4.78a.75.75 0 0 1 0-1.06Z"></path>
 </svg>
         </button>
       <div
-        id="filter-menu-2a895c"
+        id="filter-menu-1821fa"
         class="d-flex flex-column flex-1 overflow-hidden"
 >
         <div
@@ -1972,7 +1972,7 @@
 
 
     
-<a class="d-none js-permalink-shortcut" data-hotkey="y" href="/JeevToby/Mail-Automation/blob/bc9a21adc7bbb91dbc14b9fef7c19118567bba67/README.md">Permalink</a>
+<a class="d-none js-permalink-shortcut" data-hotkey="y" href="/JeevToby/Mail-Automation/blob/bc9a21adc7bbb91dbc14b9fef7c19118567bba67/mail.py">Permalink</a>
 
 <div class="d-flex flex-items-start flex-shrink-0 pb-3 flex-wrap flex-md-nowrap flex-justify-between flex-md-justify-start">
   
@@ -1980,7 +1980,7 @@
   <details
     class="js-branch-select-menu details-reset details-overlay mr-0 mb-0 "
     id="branch-select-menu"
-    data-hydro-click-payload="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;REFS_SELECTOR_MENU&quot;,&quot;repository_id&quot;:622953170,&quot;originating_url&quot;:&quot;https://github.com/JeevToby/Mail-Automation/blob/main/README.md&quot;,&quot;user_id&quot;:118037264}}" data-hydro-click-hmac="29f0e8f9f8fd7c05a88241b2cc2958d99f6b3f9a5bfcc23b82003fb5008ab29a">
+    data-hydro-click-payload="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;REFS_SELECTOR_MENU&quot;,&quot;repository_id&quot;:622953170,&quot;originating_url&quot;:&quot;https://github.com/JeevToby/Mail-Automation/blob/main/mail.py&quot;,&quot;user_id&quot;:118037264}}" data-hydro-click-hmac="7991bcfcafd7e0c7d2ed9545ddd2bb84d855c1eb9d5e40fa395af588467d21fe">
     <summary class="btn css-truncate"
             data-hotkey="w"
             title="Switch branches or tags">
@@ -2061,7 +2061,7 @@
               
 
 <template data-target="ref-selector.itemTemplate">
-  <a href="https://github.com/JeevToby/Mail-Automation/blob/{{ urlEncodedRefName }}/README.md" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}" >
+  <a href="https://github.com/JeevToby/Mail-Automation/blob/{{ urlEncodedRefName }}/mail.py" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}" >
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
     <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
 </svg>
@@ -2103,7 +2103,7 @@
               
 
 <template data-target="ref-selector.itemTemplate">
-  <a href="https://github.com/JeevToby/Mail-Automation/blob/{{ urlEncodedRefName }}/README.md" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}" >
+  <a href="https://github.com/JeevToby/Mail-Automation/blob/{{ urlEncodedRefName }}/mail.py" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}" >
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
     <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
 </svg>
@@ -2164,7 +2164,42 @@
 
 
   <h2 id="blob-path" class="breadcrumb flex-auto flex-self-center min-width-0 text-normal mx-2 width-full width-md-auto flex-order-1 flex-md-order-none mt-3 mt-md-0">
-    <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-turbo-frame="repo-content-turbo-frame" href="/JeevToby/Mail-Automation"><span>Mail-Automation</span></a></span></span><span class="separator">/</span><strong class="final-path">README.md</strong>
+    <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-turbo-frame="repo-content-turbo-frame" href="/JeevToby/Mail-Automation"><span>Mail-Automation</span></a></span></span><span class="separator">/</span><strong class="final-path">mail.py</strong>
+      <span class="separator">/</span><details class="details-reset details-overlay d-inline" id="jumpto-symbol-select-menu">
+    <summary aria-haspopup="true" data-hotkey="r" data-hydro-click="{&quot;event_type&quot;:&quot;code_navigation.click_on_blob_definitions&quot;,&quot;payload&quot;:{&quot;action&quot;:&quot;click_on_blob_definitions&quot;,&quot;repository_id&quot;:622953170,&quot;ref&quot;:&quot;main&quot;,&quot;language&quot;:&quot;Python&quot;,&quot;backend&quot;:&quot;ALEPH_FUZZY&quot;,&quot;code_nav_context&quot;:&quot;BLOB_VIEW&quot;,&quot;retry_backend&quot;:&quot;&quot;,&quot;cross_repo_results_included&quot;:&quot;CROSS_REPO_UNKNOWN&quot;,&quot;in_repo_result_count&quot;:0,&quot;cross_repo_result_count&quot;:0,&quot;originating_url&quot;:&quot;https://github.com/JeevToby/Mail-Automation/blob/main/mail.py&quot;,&quot;user_id&quot;:118037264}}" data-hydro-click-hmac="37fc861cac43e2ccc03067937007a0e398f6112293a514c93b1f6d235047200d" data-view-component="true" class="Link--secondary css-truncate btn-link">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-code">
+    <path d="m11.28 3.22 4.25 4.25a.75.75 0 0 1 0 1.06l-4.25 4.25a.749.749 0 0 1-1.275-.326.749.749 0 0 1 .215-.734L13.94 8l-3.72-3.72a.749.749 0 0 1 .326-1.275.749.749 0 0 1 .734.215Zm-6.56 0a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042L2.06 8l3.72 3.72a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L.47 8.53a.75.75 0 0 1 0-1.06Z"></path>
+</svg>
+    <span data-menu-button>Jump to</span>
+    <span class="dropdown-caret"></span>
+</summary>  <details-menu class="SelectMenu SelectMenu--hasFilter" role="menu">
+    <div class="SelectMenu-modal">
+      <header class="SelectMenu-header">
+        <span class="SelectMenu-title">Code definitions</span>
+        <button class="SelectMenu-closeButton" type="button" data-toggle-for="jumpto-symbol-select-menu">
+          <svg aria-label="Close menu" role="img" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
+    <path d="M3.72 3.72a.75.75 0 0 1 1.06 0L8 6.94l3.22-3.22a.749.749 0 0 1 1.275.326.749.749 0 0 1-.215.734L9.06 8l3.22 3.22a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L8 9.06l-3.22 3.22a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042L6.94 8 3.72 4.78a.75.75 0 0 1 0-1.06Z"></path>
+</svg>
+        </button>
+      </header>
+      <div class="SelectMenu-list">
+          <div class="SelectMenu-blankslate">
+            <p class="mb-0 color-fg-muted">
+              No definitions found in this file.
+            </p>
+          </div>
+        <div data-filterable-for="jumpto-symbols-filter-field" data-filterable-type="substring">
+        </div>
+      </div>
+      <footer class="SelectMenu-footer">
+        <div class="d-flex flex-justify-between">
+          Code navigation not available for this commit
+          <svg class="octicon octicon-dot-fill text-light-gray" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="M8 4a4 4 0 1 1 0 8 4 4 0 0 1 0-8Z"></path></svg>
+        </div>
+      </footer>
+    </div>
+  </details-menu>
+</details>
+
   </h2>
     <a href="/JeevToby/Mail-Automation/find/main" data-pjax="" data-hotkey="t" data-view-component="true" class="btn mr-2 d-none d-md-block">    Go to file
 </a>
@@ -2175,7 +2210,7 @@
 </summary>
   <div data-view-component="true">      <ul class="dropdown-menu dropdown-menu-sw">
         <li class="d-block d-md-none">
-          <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:622953170,&quot;originating_url&quot;:&quot;https://github.com/JeevToby/Mail-Automation/blob/main/README.md&quot;,&quot;user_id&quot;:118037264}}" data-hydro-click-hmac="03265a360a0aad4f35e81325c6b0624338107fb1c9c138fbd5851b5da6260311" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" href="/JeevToby/Mail-Automation/find/main">
+          <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:622953170,&quot;originating_url&quot;:&quot;https://github.com/JeevToby/Mail-Automation/blob/main/mail.py&quot;,&quot;user_id&quot;:118037264}}" data-hydro-click-hmac="412e636082a0e132168bdaf28b917d74beee4970d42587e03d2aa4867833c69d" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" href="/JeevToby/Mail-Automation/find/main">
             <span class="flex-auto">Go to file</span>
             <span class="text-small color-fg-muted" aria-hidden="true">T</span>
 </a>        </li>
@@ -2185,15 +2220,21 @@
               <span class="text-small color-fg-muted" aria-hidden="true">L</span>
             </span>
 </button>        </li>
+        <li data-toggle-for="blob-more-options-details">
+            <button data-toggle-for="jumpto-symbol-select-menu" type="button" data-view-component="true" class="dropdown-item btn-link">    <span class="d-flex flex-items-baseline">
+              <span class="flex-auto">Go to definition</span>
+              <span class="text-small color-fg-muted" aria-hidden="true">R</span>
+            </span>
+</button>        </li>
         <li class="dropdown-divider" role="none"></li>
         <li>
-          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy path" value="README.md" data-view-component="true" class="dropdown-item cursor-pointer">
+          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy path" value="mail.py" data-view-component="true" class="dropdown-item cursor-pointer">
     
             Copy path
 
 </clipboard-copy>        </li>
         <li>
-          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy permalink" value="https://github.com/JeevToby/Mail-Automation/blob/bc9a21adc7bbb91dbc14b9fef7c19118567bba67/README.md" data-view-component="true" class="dropdown-item cursor-pointer">
+          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy permalink" value="https://github.com/JeevToby/Mail-Automation/blob/bc9a21adc7bbb91dbc14b9fef7c19118567bba67/mail.py" data-view-component="true" class="dropdown-item cursor-pointer">
     
             <span class="d-flex flex-items-baseline">
               <span class="flex-auto">Copy permalink</span>
@@ -2224,80 +2265,17 @@
     <include-fragment src="/JeevToby/Mail-Automation/spoofed_commit_check/bc9a21adc7bbb91dbc14b9fef7c19118567bba67" data-test-selector="spoofed-commit-check"></include-fragment>
 
     <div class="Box d-flex flex-column flex-shrink-0 mb-3">
-  
-  <div class="Box-header Details js-details-container">
-      <div class="d-flex flex-items-center">
-        <span class="flex-shrink-0 ml-n1 mr-n1 mt-n1 mb-n1">
-          <a rel="author" data-hovercard-type="user" data-hovercard-url="/users/JeevToby/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/JeevToby"><img class="avatar avatar-user" src="https://avatars.githubusercontent.com/u/115400580?s=48&amp;v=4" width="24" height="24" alt="@JeevToby" /></a>
-        </span>
-        <div class="flex-1 d-flex flex-items-center ml-3 min-width-0">
-          <div class="css-truncate css-truncate-overflow">
-            <a class="text-bold Link--primary" rel="author" data-hovercard-type="user" data-hovercard-url="/users/JeevToby/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/JeevToby">JeevToby</a>
+  <include-fragment src="/JeevToby/Mail-Automation/contributors/main/mail.py" class="commit-loader">
+    <div class="Box-header d-flex flex-items-center">
+      <div class="Skeleton avatar avatar-user flex-shrink-0 ml-n1 mr-n1 mt-n1 mb-n1" style="width:24px;height:24px;"></div>
+      <div class="Skeleton Skeleton--text col-5 ml-2">&nbsp;</div>
+    </div>
 
-              <span class="markdown-title">
-                <a data-pjax="true" title="Update README.md" class="Link--secondary" href="/JeevToby/Mail-Automation/commit/99be6f5aabf53ff3fcfe915ab72a8ea1d3a4fe1e">Update README.md</a>
-              </span>
-          </div>
-
-
-          <span class="ml-2">
-            <include-fragment accept="text/fragment+html" src="/JeevToby/Mail-Automation/commit/99be6f5aabf53ff3fcfe915ab72a8ea1d3a4fe1e/rollup?direction=e" class="d-inline"></include-fragment>
-          </span>
-        </div>
-        <div class="ml-3 d-flex flex-shrink-0 flex-items-center flex-justify-end color-fg-muted no-wrap">
-          <span class="d-none d-md-inline">
-            <span>Latest commit</span>
-            <a class="text-small text-mono Link--secondary" href="/JeevToby/Mail-Automation/commit/99be6f5aabf53ff3fcfe915ab72a8ea1d3a4fe1e" data-pjax>99be6f5</a>
-            <span itemprop="dateModified"><relative-time datetime="2023-04-03T12:00:40Z" class="no-wrap">Apr 3, 2023</relative-time></span>
-          </span>
-
-          <a data-pjax href="/JeevToby/Mail-Automation/commits/main/README.md" class="ml-3 no-wrap Link--primary no-underline">
-            <svg text="gray" aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-history">
-    <path d="m.427 1.927 1.215 1.215a8.002 8.002 0 1 1-1.6 5.685.75.75 0 1 1 1.493-.154 6.5 6.5 0 1 0 1.18-4.458l1.358 1.358A.25.25 0 0 1 3.896 6H.25A.25.25 0 0 1 0 5.75V2.104a.25.25 0 0 1 .427-.177ZM7.75 4a.75.75 0 0 1 .75.75v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5A.75.75 0 0 1 7.75 4Z"></path>
-</svg>
-            <span class="d-none d-sm-inline">
-              <strong>History</strong>
-            </span>
-          </a>
-        </div>
-      </div>
-
-  </div>
-
-  <div class="Box-body d-flex flex-items-center flex-auto border-bottom-0 flex-wrap" >
-    <details class="details-reset details-overlay details-overlay-dark lh-default color-fg-default float-left mr-3" id="blob_contributors_box">
-      <summary class="Link--primary">
-        <svg text="gray" aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-people">
-    <path d="M2 5.5a3.5 3.5 0 1 1 5.898 2.549 5.508 5.508 0 0 1 3.034 4.084.75.75 0 1 1-1.482.235 4 4 0 0 0-7.9 0 .75.75 0 0 1-1.482-.236A5.507 5.507 0 0 1 3.102 8.05 3.493 3.493 0 0 1 2 5.5ZM11 4a3.001 3.001 0 0 1 2.22 5.018 5.01 5.01 0 0 1 2.56 3.012.749.749 0 0 1-.885.954.752.752 0 0 1-.549-.514 3.507 3.507 0 0 0-2.522-2.372.75.75 0 0 1-.574-.73v-.352a.75.75 0 0 1 .416-.672A1.5 1.5 0 0 0 11 5.5.75.75 0 0 1 11 4Zm-5.5-.5a2 2 0 1 0-.001 3.999A2 2 0 0 0 5.5 3.5Z"></path>
-</svg>
-        <strong>1</strong>
-        
-        contributor
-      </summary>
-      <details-dialog
-        class="Box Box--overlay d-flex flex-column anim-fade-in fast"
-        aria-label="Users who have contributed to this file"
-        src="/JeevToby/Mail-Automation/contributors-list/main/README.md" preload>
-        <div class="Box-header">
-          <button class="Box-btn-octicon btn-octicon float-right" type="button" aria-label="Close dialog" data-close-dialog>
-            <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
-    <path d="M3.72 3.72a.75.75 0 0 1 1.06 0L8 6.94l3.22-3.22a.749.749 0 0 1 1.275.326.749.749 0 0 1-.215.734L9.06 8l3.22 3.22a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L8 9.06l-3.22 3.22a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042L6.94 8 3.72 4.78a.75.75 0 0 1 0-1.06Z"></path>
-</svg>
-          </button>
-          <h3 class="Box-title">
-            Users who have contributed to this file
-          </h3>
-        </div>
-        <include-fragment>
-          <svg style="box-sizing: content-box; color: var(--color-icon-primary);" width="32" height="32" viewBox="0 0 16 16" fill="none" data-view-component="true" class="my-3 mx-auto d-block anim-rotate">
-  <circle cx="8" cy="8" r="7" stroke="currentColor" stroke-opacity="0.25" stroke-width="2" vector-effect="non-scaling-stroke" />
-  <path d="M15 8a7.002 7.002 0 00-7-7" stroke="currentColor" stroke-width="2" stroke-linecap="round" vector-effect="non-scaling-stroke" />
-</svg>
-        </include-fragment>
-      </details-dialog>
-    </details>
-  </div>
-</div>
+    <div class="Box-body d-flex flex-items-center" >
+      <div class="Skeleton Skeleton--text col-1">&nbsp;</div>
+      <span class="color-fg-danger h6 loader-error">Cannot retrieve contributors at this time</span>
+    </div>
+</include-fragment></div>
 
 
 
@@ -2310,71 +2288,31 @@
 
 
 
-    <readme-toc>
-
+  
     <div data-target="readme-toc.content" class="Box mt-3 position-relative">
       
   <div
-    class="Box-header js-blob-header blob-header js-sticky js-position-sticky top-0 p-2 d-flex flex-shrink-0 flex-md-row flex-items-center"
-    style="position: sticky; z-index: 1;"
+    class="Box-header js-blob-header py-2 pr-2 d-flex flex-shrink-0 flex-md-row flex-items-center"
+    
   >
-
-      <details
-  data-target="readme-toc.trigger"
-  data-menu-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;trigger&quot;,&quot;repository_id&quot;:622953170,&quot;originating_url&quot;:&quot;https://github.com/JeevToby/Mail-Automation/blob/main/README.md&quot;,&quot;user_id&quot;:118037264}}"
-  data-menu-hydro-click-hmac="9992c9fcf93a030270b60d2fa789d914b9e0ffc63b44ff84e3b785426d6b2532"
-  class="dropdown details-reset details-overlay"
->
-  <summary
-    class="btn btn-octicon m-0 mr-2 p-2"
-    aria-haspopup="true"
-    aria-label="Table of Contents">
-    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-list-unordered">
-    <path d="M5.75 2.5h8.5a.75.75 0 0 1 0 1.5h-8.5a.75.75 0 0 1 0-1.5Zm0 5h8.5a.75.75 0 0 1 0 1.5h-8.5a.75.75 0 0 1 0-1.5Zm0 5h8.5a.75.75 0 0 1 0 1.5h-8.5a.75.75 0 0 1 0-1.5ZM2 14a1 1 0 1 1 0-2 1 1 0 0 1 0 2Zm1-6a1 1 0 1 1-2 0 1 1 0 0 1 2 0ZM2 4a1 1 0 1 1 0-2 1 1 0 0 1 0 2Z"></path>
-</svg>
-  </summary>
-
-
-  <details-menu class="SelectMenu" role="menu">
-    <div class="SelectMenu-modal rounded-3 mt-1" style="max-height:340px;">
-
-
-      <div class="SelectMenu-list SelectMenu-list--borderless p-2" style="overscroll-behavior: contain;">
-          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 text-emphasized" style="-webkit-box-orient: vertical; padding-left: 12px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:622953170,&quot;originating_url&quot;:&quot;https://github.com/JeevToby/Mail-Automation/blob/main/README.md&quot;,&quot;user_id&quot;:118037264}}" data-hydro-click-hmac="a918e5ee04c4a39c18d31497e8529fc743d38b20fbd0f7f3882361c2ab7c2cb2" href="#automated-mailing">Automated Mailing</a>
-          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 24px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:622953170,&quot;originating_url&quot;:&quot;https://github.com/JeevToby/Mail-Automation/blob/main/README.md&quot;,&quot;user_id&quot;:118037264}}" data-hydro-click-hmac="a918e5ee04c4a39c18d31497e8529fc743d38b20fbd0f7f3882361c2ab7c2cb2" href="#️-description"><g-emoji class="g-emoji" alias="hammer_and_wrench" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f6e0.png">🛠️</g-emoji> Description</a>
-          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 24px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:622953170,&quot;originating_url&quot;:&quot;https://github.com/JeevToby/Mail-Automation/blob/main/README.md&quot;,&quot;user_id&quot;:118037264}}" data-hydro-click-hmac="a918e5ee04c4a39c18d31497e8529fc743d38b20fbd0f7f3882361c2ab7c2cb2" href="#️-languages-or-frameworks-used"><g-emoji class="g-emoji" alias="gear" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2699.png">⚙️</g-emoji> Languages or Frameworks Used</a>
-          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 24px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:622953170,&quot;originating_url&quot;:&quot;https://github.com/JeevToby/Mail-Automation/blob/main/README.md&quot;,&quot;user_id&quot;:118037264}}" data-hydro-click-hmac="a918e5ee04c4a39c18d31497e8529fc743d38b20fbd0f7f3882361c2ab7c2cb2" href="#-how-to-run"><g-emoji class="g-emoji" alias="star2" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f31f.png">🌟</g-emoji> How to run</a>
-          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 24px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:622953170,&quot;originating_url&quot;:&quot;https://github.com/JeevToby/Mail-Automation/blob/main/README.md&quot;,&quot;user_id&quot;:118037264}}" data-hydro-click-hmac="a918e5ee04c4a39c18d31497e8529fc743d38b20fbd0f7f3882361c2ab7c2cb2" href="#-author"><g-emoji class="g-emoji" alias="robot" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f916.png">🤖</g-emoji> Author</a>
-      </div>
-    </div>
-  </details-menu>
-</details>
 
 
   <div class="text-mono f6 flex-auto pr-3 flex-order-2 flex-md-order-1">
 
-      25 lines (13 sloc)
+      35 lines (26 sloc)
       <span class="file-info-divider"></span>
-    642 Bytes
+    885 Bytes
   </div>
 
   <div class="d-flex py-1 py-md-0 flex-auto flex-order-1 flex-md-order-2 flex-sm-grow-0 flex-justify-between hide-sm hide-md">
-        <div class="BtnGroup">
-      <a href="/JeevToby/Mail-Automation/blob/main/README.md?plain=1" data-permalink-href="/JeevToby/Mail-Automation/blob/bc9a21adc7bbb91dbc14b9fef7c19118567bba67/README.md?plain=1" aria-label="Display the source blob" data-view-component="true" class="source tooltipped tooltipped tooltipped-n  js-permalink-replaceable-link btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-code">
-    <path d="m11.28 3.22 4.25 4.25a.75.75 0 0 1 0 1.06l-4.25 4.25a.749.749 0 0 1-1.275-.326.749.749 0 0 1 .215-.734L13.94 8l-3.72-3.72a.749.749 0 0 1 .326-1.275.749.749 0 0 1 .734.215Zm-6.56 0a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042L2.06 8l3.72 3.72a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L.47 8.53a.75.75 0 0 1 0-1.06Z"></path>
-</svg>
-</a>      <a href="/JeevToby/Mail-Automation/blob/main/README.md" data-permalink-href="/JeevToby/Mail-Automation/blob/bc9a21adc7bbb91dbc14b9fef7c19118567bba67/README.md" aria-label="Display the rendered blob" data-view-component="true" class="rendered tooltipped tooltipped tooltipped-n selected js-permalink-replaceable-link btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-file">
-    <path d="M2 1.75C2 .784 2.784 0 3.75 0h6.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0 1 13.25 16h-9.5A1.75 1.75 0 0 1 2 14.25Zm1.75-.25a.25.25 0 0 0-.25.25v12.5c0 .138.112.25.25.25h9.5a.25.25 0 0 0 .25-.25V6h-2.75A1.75 1.75 0 0 1 9 4.25V1.5Zm6.75.062V4.25c0 .138.112.25.25.25h2.688l-.011-.013-2.914-2.914-.013-.011Z"></path>
-</svg>
-</a>  </div>
-
+      
 
     <div class="BtnGroup">
-        <a data-permalink-href="/JeevToby/Mail-Automation/raw/bc9a21adc7bbb91dbc14b9fef7c19118567bba67/README.md" href="/JeevToby/Mail-Automation/raw/main/README.md" id="raw-url" group_item="true" data-view-component="true" class="js-permalink-replaceable-link Button--secondary Button--small Button">    <span class="Button-content">
+        <a data-permalink-href="/JeevToby/Mail-Automation/raw/bc9a21adc7bbb91dbc14b9fef7c19118567bba67/mail.py" href="/JeevToby/Mail-Automation/raw/main/mail.py" id="raw-url" group_item="true" data-view-component="true" class="js-permalink-replaceable-link Button--secondary Button--small Button">    <span class="Button-content">
       <span class="Button-label">Raw</span>
     </span>
 </a>  
-          <a data-permalink-href="/JeevToby/Mail-Automation/blame/bc9a21adc7bbb91dbc14b9fef7c19118567bba67/README.md" href="/JeevToby/Mail-Automation/blame/main/README.md" group_item="true" data-hotkey="b" data-view-component="true" class="js-update-url-with-hash js-permalink-replaceable-link Button--secondary Button--small Button">    <span class="Button-content">
+          <a data-permalink-href="/JeevToby/Mail-Automation/blame/bc9a21adc7bbb91dbc14b9fef7c19118567bba67/mail.py" href="/JeevToby/Mail-Automation/blame/main/mail.py" group_item="true" data-hotkey="b" data-view-component="true" class="js-update-url-with-hash js-permalink-replaceable-link Button--secondary Button--small Button">    <span class="Button-content">
       <span class="Button-label">Blame</span>
     </span>
 </a>  
@@ -2383,7 +2321,7 @@
     <div class="d-flex">
         
 <div class="ml-1" >
-  <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="BtnGroup-parent js-update-url-with-hash " data-turbo="false" action="/JeevToby/Mail-Automation/edit/main/README.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="gNtwB9lMPExipKejcfFlkxj2jlRw_38u_decHIQwdoMHYarpaWHP_dVO9tXsnogKwkzKHxa2p7soJYEQMYjULg" autocomplete="off" />
+  <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="BtnGroup-parent js-update-url-with-hash " data-turbo="false" action="/JeevToby/Mail-Automation/edit/main/mail.py" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="GHTa9Zl-V6EbI0PZCbEle30dMYzdkHh0XtcFDVM4yFWjfpherQ-abJMsxtXt3SvtTSw_uPMKNIDP_qjO_TbJjA" autocomplete="off" />
       <button title="Fork this repository and edit the file" data-hotkey="e" data-disable-with="" type="submit" data-view-component="true" class="btn-sm BtnGroup-item btn">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-pencil">
     <path d="M11.013 1.427a1.75 1.75 0 0 1 2.474 0l1.086 1.086a1.75 1.75 0 0 1 0 2.474l-8.61 8.61c-.21.21-.47.364-.756.445l-3.251.93a.75.75 0 0 1-.927-.928l.929-3.25c.081-.286.235-.547.445-.758l8.61-8.61Zm.176 4.823L9.75 4.81l-6.286 6.287a.253.253 0 0 0-.064.108l-.558 1.953 1.953-.558a.253.253 0 0 0 .108-.064Zm1.238-3.763a.25.25 0 0 0-.354 0L10.811 3.75l1.439 1.44 1.263-1.263a.25.25 0 0 0 0-.354Z"></path>
 </svg>
@@ -2393,7 +2331,7 @@
 </summary>    <div class="SelectMenu right-0">
       <div class="SelectMenu-modal width-full">
         <div class="SelectMenu-list SelectMenu-list--borderless py-2">
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="SelectMenu-item js-update-url-with-hash " data-turbo="false" action="/JeevToby/Mail-Automation/edit/main/README.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="5GDtMSh8nbCcfc_t1zSu4aY_flWa1JteB2mmqO9v7m9j2jffmFFuASuXnptKW0N4fIU6HvydQ8vSm7ukWtdMwg" autocomplete="off" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="SelectMenu-item js-update-url-with-hash " data-turbo="false" action="/JeevToby/Mail-Automation/edit/main/mail.py" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="8VvLBMkF0VsjBdELK-9EKW6Ekl2RoYhE14imL7YD--hKUYmv_XQclqsKVAfPg0q_XrWcab87xLBGoQvsGA36MQ" autocomplete="off" />
               <button title="Fork this repository and edit the file" type="submit" data-view-component="true" class="btn-invisible btn width-full d-flex flex-justify-between color-fg-default text-normal p-0">    <div class="mr-5">Edit this file</div>
               <div class="color-fg-muted">E</div>
 </button></form>
@@ -2415,7 +2353,7 @@
   </div>
 
 
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" data-turbo="false" action="/JeevToby/Mail-Automation/delete/main/README.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="9bKg-aVRYYhqBg8woeGmQ0WLtEj-eGbR6PQheHVfJchcrbv3rwLoE9HYsdtBdzsRAGUjZYs1C51cfl9UxDT7Rw" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" data-turbo="false" action="/JeevToby/Mail-Automation/delete/main/mail.py" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="Lp8t-kUEztLNj9l8uH5TC0g_00YJZrQvVsvojEZiQIpngW5R_V19LUhMPJdzTMpSqPIkvITH6qyw5QanbFxB4Q" />
             <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
               aria-label="Fork this repository and delete the file" data-disable-with>
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-trash">
@@ -2428,7 +2366,7 @@
     <div class="d-flex hide-lg hide-xl flex-order-2 flex-grow-0">
       <details class="dropdown details-reset details-overlay d-inline-block">
         <summary
-          class="js-blob-dropdown-click btn-octicon p-2"
+          class="js-blob-dropdown-click btn-octicon"
           aria-haspopup="true"
           aria-label="possible actions"
           
@@ -2448,27 +2386,27 @@
                 </a>
             </li>
           <li>
-            <a class="dropdown-item" href="/JeevToby/Mail-Automation/raw/main/README.md">
+            <a class="dropdown-item" href="/JeevToby/Mail-Automation/raw/main/mail.py">
               View raw
             </a>
           </li>
             <li>
                           </li>
             <li>
-              <a class="dropdown-item" href="/JeevToby/Mail-Automation/blame/main/README.md">
+              <a class="dropdown-item" href="/JeevToby/Mail-Automation/blame/main/mail.py">
                 View blame
               </a>
             </li>
 
               <li class="dropdown-divider" role="none"></li>
               <li>
-                <a class="dropdown-item" href="/JeevToby/Mail-Automation/edit/main/README.md">Edit file</a>
+                <a class="dropdown-item" href="/JeevToby/Mail-Automation/edit/main/mail.py">Edit file</a>
               </li>
                 <li>
                   <a data-dropdown-tracking="{&quot;type&quot;:&quot;blob_edit_dropdown.dev_link_click&quot;,&quot;context&quot;:{&quot;repository_id&quot;:622953170,&quot;actor_id&quot;:118037264,&quot;edit_enabled&quot;:true,&quot;small_screen&quot;:true}}" href="https://github.dev/" data-view-component="true" class="dropdown-item js-github-dev-shortcut js-blob-dropdown-click">Open with github.dev</a>
                 </li>
               <li>
-                <a class="dropdown-item menu-item-danger" href="/JeevToby/Mail-Automation/delete/main/README.md">Delete file</a>
+                <a class="dropdown-item menu-item-danger" href="/JeevToby/Mail-Automation/delete/main/mail.py">Delete file</a>
               </li>
         </ul>
       </details>
@@ -2476,28 +2414,218 @@
 </div>
 
 
-        <div id="readme" class="Box-body readme blob js-code-block-container p-5 p-xl-6 gist-border-0">
-    <article class="markdown-body entry-content container-lg" itemprop="text"><h1 dir="auto"><a id="user-content-automated-mailing" class="anchor" aria-hidden="true" href="#automated-mailing"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>Automated Mailing</h1>
-<h2 dir="auto"><a id="user-content-️-description" class="anchor" aria-hidden="true" href="#️-description"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><g-emoji class="g-emoji" alias="hammer_and_wrench" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f6e0.png">🛠️</g-emoji> Description</h2>
-<p dir="auto">This code helps automate the process of sending mail to large audience.It takes email addresses stored in the CSV file.</p>
-<h2 dir="auto"><a id="user-content-️-languages-or-frameworks-used" class="anchor" aria-hidden="true" href="#️-languages-or-frameworks-used"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><g-emoji class="g-emoji" alias="gear" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2699.png">⚙️</g-emoji> Languages or Frameworks Used</h2>
-<p dir="auto">Modules required are <code>os</code> , <code>email.mime</code> , <code>smtplib</code> , <code>pandas</code>.</p>
-<p dir="auto">These are listed in <code>requirements.txt</code> . USe the below command to install these dependencies.</p>
-<p dir="auto"><code>pip install requirements.txt</code></p>
-<h2 dir="auto"><a id="user-content--how-to-run" class="anchor" aria-hidden="true" href="#-how-to-run"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><g-emoji class="g-emoji" alias="star2" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f31f.png">🌟</g-emoji> How to run</h2>
-<ul dir="auto">
-<li>Update the <code>from_addr</code> and <code>pd.read_csv("filepath")</code></li>
-<li>Assign <code>email</code> with your email-id &amp; <code>password</code> with your e-mail password.</li>
-<li>Run script</li>
-</ul>
-<h2 dir="auto"><a id="user-content--author" class="anchor" aria-hidden="true" href="#-author"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><g-emoji class="g-emoji" alias="robot" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f916.png">🤖</g-emoji> Author</h2>
-<p dir="auto"><a href="https://github.com/pradhyumanarora">Pradhyuman Arora</a></p>
-</article>
-  </div>
+      
+    <div itemprop="text" class="Box-body p-0 blob-wrapper data type-python  gist-border-0">
+
+        
+<div class="js-check-bidi js-blob-code-container blob-code-content">
+
+  <template class="js-file-alert-template">
+  <div data-view-component="true" class="flash flash-warn flash-full d-flex flex-items-center">
+  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-alert">
+    <path d="M6.457 1.047c.659-1.234 2.427-1.234 3.086 0l6.082 11.378A1.75 1.75 0 0 1 14.082 15H1.918a1.75 1.75 0 0 1-1.543-2.575Zm1.763.707a.25.25 0 0 0-.44 0L1.698 13.132a.25.25 0 0 0 .22.368h12.164a.25.25 0 0 0 .22-.368Zm.53 3.996v2.5a.75.75 0 0 1-1.5 0v-2.5a.75.75 0 0 1 1.5 0ZM9 11a1 1 0 1 1-2 0 1 1 0 0 1 2 0Z"></path>
+</svg>
+    <span>
+      This file contains bidirectional Unicode text that may be interpreted or compiled differently than what appears below. To review, open the file in an editor that reveals hidden Unicode characters.
+      <a href="https://github.co/hiddenchars" target="_blank">Learn more about bidirectional Unicode characters</a>
+    </span>
+
+
+  <div data-view-component="true" class="flash-action">        <a href="{{ revealButtonHref }}" data-view-component="true" class="btn-sm btn">    Show hidden characters
+</a>
+</div>
+</div></template>
+<template class="js-line-alert-template">
+  <span aria-label="This line has hidden Unicode characters" data-view-component="true" class="line-alert tooltipped tooltipped-e">
+    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-alert">
+    <path d="M6.457 1.047c.659-1.234 2.427-1.234 3.086 0l6.082 11.378A1.75 1.75 0 0 1 14.082 15H1.918a1.75 1.75 0 0 1-1.543-2.575Zm1.763.707a.25.25 0 0 0-.44 0L1.698 13.132a.25.25 0 0 0 .22.368h12.164a.25.25 0 0 0 .22-.368Zm.53 3.996v2.5a.75.75 0 0 1-1.5 0v-2.5a.75.75 0 0 1 1.5 0ZM9 11a1 1 0 1 1-2 0 1 1 0 0 1 2 0Z"></path>
+</svg>
+</span></template>
+
+  <table data-hpc class="highlight tab-size js-file-line-container js-code-nav-container js-tagsearch-file" data-tab-size="8" data-paste-markdown-skip data-tagsearch-lang="Python" data-tagsearch-path="mail.py">
+        <tr>
+          <td id="L1" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="1"></td>
+          <td id="LC1" class="blob-code blob-code-inner js-file-line"><span class=pl-k>from</span> <span class=pl-s1>os</span> <span class=pl-k>import</span> <span class=pl-s1>name</span></td>
+        </tr>
+        <tr>
+          <td id="L2" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="2"></td>
+          <td id="LC2" class="blob-code blob-code-inner js-file-line"><span class=pl-k>import</span> <span class=pl-s1>pandas</span> <span class=pl-k>as</span> <span class=pl-s1>pd</span></td>
+        </tr>
+        <tr>
+          <td id="L3" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="3"></td>
+          <td id="LC3" class="blob-code blob-code-inner js-file-line"><span class=pl-k>import</span> <span class=pl-s1>smtplib</span></td>
+        </tr>
+        <tr>
+          <td id="L4" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="4"></td>
+          <td id="LC4" class="blob-code blob-code-inner js-file-line"><span class=pl-k>from</span> <span class=pl-s1>email</span>.<span class=pl-s1>mime</span>.<span class=pl-s1>multipart</span> <span class=pl-k>import</span> <span class=pl-v>MIMEMultipart</span></td>
+        </tr>
+        <tr>
+          <td id="L5" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="5"></td>
+          <td id="LC5" class="blob-code blob-code-inner js-file-line"><span class=pl-k>from</span> <span class=pl-s1>email</span>.<span class=pl-s1>mime</span>.<span class=pl-s1>text</span> <span class=pl-k>import</span> <span class=pl-v>MIMEText</span></td>
+        </tr>
+        <tr>
+          <td id="L6" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="6"></td>
+          <td id="LC6" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L7" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="7"></td>
+          <td id="LC7" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L8" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="8"></td>
+          <td id="LC8" class="blob-code blob-code-inner js-file-line"><span class=pl-s1>from_addr</span><span class=pl-c1>=</span><span class=pl-s>&#39;ENTER_SENDERS_MAILID&#39;</span></td>
+        </tr>
+        <tr>
+          <td id="L9" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="9"></td>
+          <td id="LC9" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L10" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="10"></td>
+          <td id="LC10" class="blob-code blob-code-inner js-file-line"><span class=pl-s1>data</span><span class=pl-c1>=</span><span class=pl-s1>pd</span>.<span class=pl-en>read_csv</span>(<span class=pl-s>&quot;abc.csv&quot;</span>)         <span class=pl-c># Enter path of CSV files containing emails</span></td>
+        </tr>
+        <tr>
+          <td id="L11" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="11"></td>
+          <td id="LC11" class="blob-code blob-code-inner js-file-line"><span class=pl-s1>to_addr</span><span class=pl-c1>=</span><span class=pl-s1>data</span>[<span class=pl-s>&#39;email&#39;</span>].<span class=pl-en>tolist</span>()      <span class=pl-c># Change&#39;email&#39; to column name containg emailids</span></td>
+        </tr>
+        <tr>
+          <td id="L12" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="12"></td>
+          <td id="LC12" class="blob-code blob-code-inner js-file-line"><span class=pl-s1>name</span> <span class=pl-c1>=</span> <span class=pl-s1>data</span>[<span class=pl-s>&#39;name&#39;</span>].<span class=pl-en>tolist</span>()</td>
+        </tr>
+        <tr>
+          <td id="L13" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="13"></td>
+          <td id="LC13" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L14" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="14"></td>
+          <td id="LC14" class="blob-code blob-code-inner js-file-line"><span class=pl-s1>l</span><span class=pl-c1>=</span><span class=pl-en>len</span>(<span class=pl-s1>name</span>)</td>
+        </tr>
+        <tr>
+          <td id="L15" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="15"></td>
+          <td id="LC15" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L16" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="16"></td>
+          <td id="LC16" class="blob-code blob-code-inner js-file-line"><span class=pl-k>for</span> <span class=pl-s1>i</span> <span class=pl-c1>in</span> <span class=pl-en>range</span> (<span class=pl-s1>l</span>):</td>
+        </tr>
+        <tr>
+          <td id="L17" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="17"></td>
+          <td id="LC17" class="blob-code blob-code-inner js-file-line">    <span class=pl-s1>msg</span><span class=pl-c1>=</span><span class=pl-v>MIMEMultipart</span>()</td>
+        </tr>
+        <tr>
+          <td id="L18" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="18"></td>
+          <td id="LC18" class="blob-code blob-code-inner js-file-line">    <span class=pl-s1>msg</span>[<span class=pl-s>&#39;From&#39;</span>]<span class=pl-c1>=</span><span class=pl-s1>from_addr</span></td>
+        </tr>
+        <tr>
+          <td id="L19" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="19"></td>
+          <td id="LC19" class="blob-code blob-code-inner js-file-line">    <span class=pl-s1>msg</span>[<span class=pl-s>&#39;To&#39;</span>]<span class=pl-c1>=</span><span class=pl-s1>to_addr</span>[<span class=pl-s1>i</span>]</td>
+        </tr>
+        <tr>
+          <td id="L20" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="20"></td>
+          <td id="LC20" class="blob-code blob-code-inner js-file-line">    <span class=pl-s1>msg</span>[<span class=pl-s>&#39;subject&#39;</span>]<span class=pl-c1>=</span><span class=pl-s>&#39;Just to Check&#39;</span></td>
+        </tr>
+        <tr>
+          <td id="L21" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="21"></td>
+          <td id="LC21" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L22" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="22"></td>
+          <td id="LC22" class="blob-code blob-code-inner js-file-line">    <span class=pl-s1>body</span><span class=pl-c1>=</span><span class=pl-s1>name</span>[<span class=pl-s1>i</span>]<span class=pl-c1>+</span><span class=pl-s>&#39;Enter your content here&#39;</span> </td>
+        </tr>
+        <tr>
+          <td id="L23" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="23"></td>
+          <td id="LC23" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L24" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="24"></td>
+          <td id="LC24" class="blob-code blob-code-inner js-file-line">    <span class=pl-s1>msg</span>.<span class=pl-en>attach</span>(<span class=pl-v>MIMEText</span>(<span class=pl-s1>body</span>,<span class=pl-s>&#39;plain&#39;</span>))</td>
+        </tr>
+        <tr>
+          <td id="L25" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="25"></td>
+          <td id="LC25" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L26" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="26"></td>
+          <td id="LC26" class="blob-code blob-code-inner js-file-line">    <span class=pl-s1>email</span><span class=pl-c1>=</span><span class=pl-s>&quot;&quot;</span>   <span class=pl-c>#Enter Your email id here</span></td>
+        </tr>
+        <tr>
+          <td id="L27" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="27"></td>
+          <td id="LC27" class="blob-code blob-code-inner js-file-line">    <span class=pl-s1>password</span><span class=pl-c1>=</span><span class=pl-s>&quot;&quot;</span>           <span class=pl-c>#Enter your Password</span></td>
+        </tr>
+        <tr>
+          <td id="L28" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="28"></td>
+          <td id="LC28" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L29" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="29"></td>
+          <td id="LC29" class="blob-code blob-code-inner js-file-line">    <span class=pl-s1>mail</span><span class=pl-c1>=</span><span class=pl-s1>smtplib</span>.<span class=pl-v>SMTP</span>(<span class=pl-s>&#39;smtp.gmail.com&#39;</span>,<span class=pl-c1>587</span>)</td>
+        </tr>
+        <tr>
+          <td id="L30" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="30"></td>
+          <td id="LC30" class="blob-code blob-code-inner js-file-line">    <span class=pl-s1>mail</span>.<span class=pl-en>ehlo</span>()</td>
+        </tr>
+        <tr>
+          <td id="L31" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="31"></td>
+          <td id="LC31" class="blob-code blob-code-inner js-file-line">    <span class=pl-s1>mail</span>.<span class=pl-en>starttls</span>()</td>
+        </tr>
+        <tr>
+          <td id="L32" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="32"></td>
+          <td id="LC32" class="blob-code blob-code-inner js-file-line">    <span class=pl-s1>mail</span>.<span class=pl-en>login</span>(<span class=pl-s1>email</span>,<span class=pl-s1>password</span>)</td>
+        </tr>
+        <tr>
+          <td id="L33" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="33"></td>
+          <td id="LC33" class="blob-code blob-code-inner js-file-line">    <span class=pl-s1>text</span><span class=pl-c1>=</span><span class=pl-s1>msg</span>.<span class=pl-en>as_string</span>()</td>
+        </tr>
+        <tr>
+          <td id="L34" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="34"></td>
+          <td id="LC34" class="blob-code blob-code-inner js-file-line">    <span class=pl-s1>mail</span>.<span class=pl-en>sendmail</span>(<span class=pl-s1>from_addr</span>,<span class=pl-s1>to_addr</span>[<span class=pl-s1>i</span>],<span class=pl-s1>text</span>)</td>
+        </tr>
+        <tr>
+          <td id="L35" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="35"></td>
+          <td id="LC35" class="blob-code blob-code-inner js-file-line">    <span class=pl-s1>mail</span>.<span class=pl-en>quit</span>()</td>
+        </tr>
+  </table>
+</div>
+
+  <details class="details-reset details-overlay BlobToolbar position-absolute js-file-line-actions dropdown d-none" aria-hidden="true">
+    <summary class="btn-octicon ml-0 px-2 p-0 color-bg-default border color-border-default rounded-2" aria-label="Inline file action toolbar">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-kebab-horizontal">
+    <path d="M8 9a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3ZM1.5 9a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Zm13 0a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Z"></path>
+</svg>
+    </summary>
+    <details-menu>
+
+      <ul class="BlobToolbar-dropdown dropdown-menu dropdown-menu-se ml-2 mt-2"
+      style="width:185px"
+      >
+        <li>
+          <clipboard-copy role="menuitem" class="dropdown-item" id="js-copy-lines" style="cursor:pointer;" aria-label="Copy lines">
+            Copy lines
+          </clipboard-copy>
+        </li>
+        <li>
+          <clipboard-copy role="menuitem" class="dropdown-item" id="js-copy-permalink" style="cursor:pointer;" aria-label="Copy permalink">
+            Copy permalink
+          </clipboard-copy>
+        </li>
+        <li><a class="dropdown-item js-update-url-with-hash" id="js-view-git-blame" role="menuitem" href="/JeevToby/Mail-Automation/blame/bc9a21adc7bbb91dbc14b9fef7c19118567bba67/mail.py">View git blame</a></li>
+          <li><a class="dropdown-item" id="js-new-issue" role="menuitem" href="/JeevToby/Mail-Automation/issues/new">Reference in new issue</a></li>
+      </ul>
+    </details-menu>
+  </details>
 
     </div>
 
-  </readme-toc>
+    </div>
+
 
   
 
@@ -2510,6 +2638,17 @@
 </button>
 </form>    </details-dialog>
   </details>
+
+    <div class="Popover anim-scale-in js-tagsearch-popover"
+     hidden
+     data-tagsearch-url="/JeevToby/Mail-Automation/find-definition"
+     data-tagsearch-ref="main"
+     data-tagsearch-code-nav-context="BLOB_VIEW">
+  <div class="Popover-message Popover-message--large Popover-message--top-left TagsearchPopover mt-1 mb-4 mx-auto Box color-shadow-large">
+    <div class="TagsearchPopover-content js-tagsearch-popover-content overflow-auto" style="will-change:transform;">
+    </div>
+  </div>
+</div>
 
 
 
