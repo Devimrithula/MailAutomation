@@ -1,0 +1,2 @@
+# MailAutomation
+Sends automated mail
